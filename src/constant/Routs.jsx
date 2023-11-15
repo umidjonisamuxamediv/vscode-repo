@@ -1,0 +1,6 @@
+export const CARTOONS = 'cartoons'
+export const WAR = 'war_movise'
+export const TRENDING ='trending'
+export const POPULAR ='popular'
+export const FANTASY ='fantasy'
+export const SCIENCE ='science'
